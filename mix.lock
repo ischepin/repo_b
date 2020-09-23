@@ -1,0 +1,3 @@
+%{
+  "repo_a": {:git, "git@github.com:ischepin/repo_a.git", "c887590591f2468cb96cdd8378356743202151a7", [submodules: true]},
+}
